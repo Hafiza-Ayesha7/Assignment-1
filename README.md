@@ -2,10 +2,6 @@ Python Basic Practice Assignments (Assignment 01)
 
 This repository contains step-by-step problem-solving plans and Python code solutions for basic programming concepts including user input, data type conversion, arithmetic operations, boolean logic, and conditional statements (if-elif-else).
 
-Submission Info
-
-Email: h03331146@gmail.com
-
 Questions & Solutions
 
 Q1. Simple Greeting
@@ -204,3 +200,9 @@ if guess == secret_number:
     print("Correct guess!")
 else:
     print("Wrong guess, try again next time.")
+
+
+    AUTHOR 
+    AYESHA
+    Email: hafizaayeshahafizaayesha725@gmail.com 
+    Linkedin: https://www.linkedin.com/in/ayesha-298411341
